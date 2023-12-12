@@ -1,14 +1,14 @@
-// const jokeEl = document.('')
-// const jokeBtn = document.('')
+const jokeEl = document.getElementById('joke');
+const jokeBtn = document.getElementById('jokeBtn');
 
-jokeBtn.addEventListener('', generateJoke)
+jokeBtn.addEventListener('click', generateJoke)
 
 // USING ASYNC/AWAIT
 async function generateJoke() {
   const config = {
     headers: {
       Accept: '',
-    },
+    }, 
   }
 
   const res = await ('', config)
