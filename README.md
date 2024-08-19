@@ -23,8 +23,7 @@ The challenge should work just like the video (freedom to change colors, styles,
 ###  Installation Steps:
  1. Clone the repository
  2. Open the proyect with a text editor suchs as Visual Studio Code.
-
+ 3. Run the app and enjoy it. Laughing is good for health!
 
 ### Deployment
 [Deployed project](https://anace-7.github.io/API_N1_Dad_Jokes/)
- 3. Run the app and enjoy it. Laughing is good for health!
