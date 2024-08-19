@@ -26,4 +26,4 @@ The challenge should work just like the video (freedom to change colors, styles,
  3. Run the app and enjoy it. Laughing is good for health!
 
 ### Deployment
-[Deployed project](https://anace-7.github.io/API_N1_Dad_Jokes/)
+[Visit the Dad jokes page](https://anace-7.github.io/API_N1_Dad_Jokes/)
